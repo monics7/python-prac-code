@@ -1,0 +1,4 @@
+In python,you can create list
+In python,you can create dictionaries
+In python,you can use for loop
+In python,you can use while loop
